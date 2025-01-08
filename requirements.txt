@@ -1,4 +1,5 @@
-pandas
 pymysql
+psycopg2
+pandas
+SQLAlchemy
 python-dotenv
-sqlalchemy
