@@ -1,6 +1,4 @@
 pandas
-pymongo
 pymysql
 python-dotenv
 sqlalchemy
-kagglehub
